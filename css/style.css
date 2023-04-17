@@ -474,7 +474,10 @@ header.active li a{
 	  font-size: 14px;
 	}
   }
-  
+  .course-box ul li{
+	display: flex;
+	align-items: center;
+  }
 
 
 
@@ -482,7 +485,7 @@ header.active li a{
 #Portfolio{
 	width: 100%;
 	display: flex;
-	background: #fff;
+	background: #EDF6FF;
 	padding: 100px 0;
 }
 .portfolio-img{
